@@ -3,5 +3,4 @@ doit==0.34.1
 entrypoints==0.4
 jupyter-core==4.9.1
 jupyterlite==0.1.0a21
-pywin32==303
 traitlets==5.1.1
